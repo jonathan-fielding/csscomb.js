@@ -46,9 +46,9 @@
     "dependencies": {
         "commander": "2.0.0",
         "gonzales-pe": "2.0.x",
-        "minimatch": "0.2.12",
+        "minimatch": "3.0.2",
         "vow": "0.4.4",
-        "vow-fs": "0.3.2"
+        "vow-fs": "0.3.6"
     },
     "devDependencies": {
         "jshint-groups": "0.5.3",
